@@ -424,11 +424,11 @@ header {
 
 nav {
   text-align: right;
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 
 nav a {
   text-decoration: none;
-  margin-right: 1rem;
+  margin-right: 2rem;
   color: #2c3e50;
 }
