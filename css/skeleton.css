@@ -422,5 +422,11 @@ header {
   margin-top: 2rem;
 }
 
-.logo {
+nav {
+  text-align: right;
+}
+
+nav a {
+  text-decoration: none;
+  margin-right: 2rem;
 }
