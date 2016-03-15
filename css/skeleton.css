@@ -417,3 +417,17 @@ there.
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
 
+header {
+  text-align: center;
+  padding-top: 1rem;
+}
+
+header a {
+  text-decoration: none;
+  color: #34495e;
+}
+
+header h2 {
+  color: #34495e;
+  margin: 0;
+}
