@@ -422,12 +422,16 @@ header {
   padding-top: 1rem;
 }
 
-header a {
-  text-decoration: none;
-  color: #34495e;
-}
-
 header h2 {
   color: #34495e;
   margin: 0;
+}
+
+nav {
+  text-align: center;
+}
+
+nav a {
+  text-decoration: none;
+  color: #34495e;
 }
